@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Vagner A Silva :man_technologist:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrmarcelo/)](https://www.linkedin.com/in/vagnerasilva/)
+
+
+### Hellooo! 👋 Welcome to my profile
+
+My name is Vagner and ...:
+
+ - 😄 I really like to learn
+ - 📊 I'm working with Artificial Inteligence
+ - 📚 Currently studying GCP and Machine learning Enginner (Udacity nanodegre)
+ 
