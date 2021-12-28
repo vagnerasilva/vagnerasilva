@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 My name is Vagner and ...:
 
  - 😄 I really like to learn
- - 📊 I'm working with Artificial Inteligence
- - 📚 Currently studying GCP and Machine learning Enginner (Udacity nanodegre)
+ - 📊 I'm working with MLOPS
+ - 📚 I'm Machine learning Enginner (Udacity nanodegre)
  
