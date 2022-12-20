@@ -29,3 +29,6 @@ My name is Vagner and ...:
  - 📊 I'm working with MLOPS
  - 📚 I'm Machine learning Enginner (Udacity nanodegre)
  
+## Leetcode stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/vagnerantoniodasilva?theme=dark&&ext=activity)
