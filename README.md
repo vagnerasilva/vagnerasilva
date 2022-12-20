@@ -29,7 +29,7 @@ My name is Vagner and ...:
  - 😄 I really like to learn
  - 📊 I'm working with MLOPS
  - 📚 I'm Machine learning Enginner (Udacity nanodegre)
- - <img title="image" src="https://github.com/twyle/twyle/blob/main/github-banner-v2.png" />
+ - <img title="image" src="https://github.com/vagnerasilva/portifolio_certificates/blob/master/badge_MLE.png" />
  
 ## Leetcode stats
 
