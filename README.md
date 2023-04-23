@@ -31,7 +31,7 @@ My name is Vagner and ...:
  - 📚 I'm Machine learning Enginner and working at ITAÚ.
 
  
- <a href="https://brasilopenbadge.com.br/pages/badge/5437ec4c055812415dad1085c75f669d"> &ensp; 
+ <a href="https://lnkd.in/diQmaUYY"> &ensp; 
    <img width = "180px" src = "https://github.com/vagnerasilva/portifolio_certificates/blob/master/badge_MLE.png"> &ensp; &ensp; &ensp; 
    <img width = "240px" src = "https://github.com/vagnerasilva/portifolio_certificates/blob/master/udacity.png"> &ensp; &ensp; &ensp; 
 </a>
