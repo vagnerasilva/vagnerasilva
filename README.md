@@ -28,9 +28,21 @@ My name is Vagner and ...:
 
  - 😄 I really like to learn
  - 📊 I'm working with MLOPS
- - 📚 I'm Machine learning Enginner (Udacity nanodegre)
+ - 📚 I'm Machine learning Enginner and working at ITAÚ.
  - <img title="image" src="https://github.com/vagnerasilva/portifolio_certificates/blob/master/badge_MLE.png" />
  
 ## Leetcode stats
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/vagnerantoniodasilva?theme=dark&&ext=activity)
+
+<div align="center">
+  <a href="https://github.com/utomoreza">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerasilva&theme=radical&hide=glsl,python" />
+  </a>
+</div>
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vagnerasilva&count_private=true&show_icons=true&title_color=f6bd4b&bg_color=000000&icon_color=f6bd4b&border_color=f6bd4b&text_color=fef9ff&hide_title=true)
+
+</div>
