@@ -37,7 +37,9 @@ My name is Vagner and ...:
 <a href="https://github.com/vagnerasilva/portifolio_certificates/blob/master/20200916_Udacity%20Nanodegre%20Machine%20Learning%20Enginner.pdf"> &ensp; 
    <img width = "240px" src = "https://github.com/vagnerasilva/portifolio_certificates/blob/master/udacity.png"> &ensp; &ensp; &ensp;
 </a>
-
+ <a href="https://courses.edx.org/certificates/3518df139b014ceb8114ecb2dd54dd39"> &ensp; 
+   <img width = "240px" src = "https://github.com/vagnerasilva/portifolio_certificates/blob/master/columbia.png"> &ensp; &ensp; &ensp;
+</a>
  
  
  
