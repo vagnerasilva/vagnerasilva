@@ -33,8 +33,7 @@ My name is Vagner and ...:
  
  <a href="https://www.credly.com/users/fernandes-macedo-ribeiro/badges"> &ensp; 
    <img width = "180px" src = "https://github.com/vagnerasilva/portifolio_certificates/blob/master/badge_MLE.png"> &ensp; &ensp; &ensp; 
-   <img width = "180px" src = "https://github.com/vagnerasilva/portifolio_certificates/blob/master/badge_MLE.png"> &ensp; &ensp; &ensp; 
-   <img width = "180px" src = "https://github.com/vagnerasilva/portifolio_certificates/blob/master/badge_MLE.png"> &ensp; &ensp; &ensp; 
+   <img width = "240px" src = "https://github.com/vagnerasilva/portifolio_certificates/blob/master/udacity.png"> &ensp; &ensp; &ensp; 
 </a>
  
  
