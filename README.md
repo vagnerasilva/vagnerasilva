@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrmarcelo/)](https://www.linkedin.com/in/vagnerasilva/)
 
-**[My website &rarr;](https://focanocodigo.com.br)**
+**[My website &rarr;](http://focanocodigo.com.br)**
 
 ### Hellooo! 👋 Welcome to my profile
 
@@ -32,9 +32,12 @@ My name is Vagner and ...:
 
  
  <a href="https://lnkd.in/diQmaUYY"> &ensp; 
-   <img width = "180px" src = "https://github.com/vagnerasilva/portifolio_certificates/blob/master/badge_MLE.png"> &ensp; &ensp; &ensp; 
-   <img width = "240px" src = "https://github.com/vagnerasilva/portifolio_certificates/blob/master/udacity.png"> &ensp; &ensp; &ensp; 
+   <img width = "180px" src = "https://github.com/vagnerasilva/portifolio_certificates/blob/master/badge_MLE.png"> &ensp; &ensp; &ensp;
 </a>
+<a href="https://github.com/vagnerasilva/portifolio_certificates/blob/master/20200916_Udacity%20Nanodegre%20Machine%20Learning%20Enginner.pdf"> &ensp; 
+   <img width = "240px" src = "https://github.com/vagnerasilva/portifolio_certificates/blob/master/udacity.png"> &ensp; &ensp; &ensp;
+</a>
+
  
  
  
