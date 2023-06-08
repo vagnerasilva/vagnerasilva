@@ -28,7 +28,7 @@ My name is Vagner and ...:
 
  - 😄 I really like to learn
  - 📊 I'm working with MLOPS
- - 📚 I'm Machine learning Enginner and working at ITAÚ.
+ - 📚 I'm Machine learning Engineer and working at ITAÚ.
 
  
  <a href="https://lnkd.in/diQmaUYY"> &ensp; 
