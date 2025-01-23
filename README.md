@@ -47,6 +47,10 @@ My name is Vagner and ...:
  <a href="https://www.qwiklabs.com/public_profiles/9531b275-0de1-4007-aad9-c4f776872faf"> &ensp; 
    <img width = "240px" src = "https://github.com/vagnerasilva/vagnerasilva/blob/master/icons/Qwiklabs.png"> &ensp; &ensp; &ensp;
 </a> 
+
+## badges
+https://www.credly.com/users/vagner-antoniodasilva
+
  
 ## Leetcode stats
 
