@@ -50,6 +50,7 @@ My name is Vagner and ...:
 
 ## badges
 https://www.credly.com/users/vagnerantoniodasilva
+![badges](https://github.com/user-attachments/assets/f0eff22e-5927-460c-bf0c-f57ce46c4882)
 
  
 ## Leetcode stats
